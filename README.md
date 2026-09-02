@@ -1,13 +1,16 @@
-This repository contains my Python learning journey. 
-Each file represents a concept I have practiced and understood, 
-including topics such as:
+# Python Course Practice
 
-- Basic syntax and operators
-- Functions, decorators, and lambda expressions
-- Object-oriented programming (inheritance, class methods, operator overloading)
-- File handling and I/O operations
-- Data structures and algorithms
-- Custom projects like a Library Management System
+This repository contains my Python learning journey.  
+Each file demonstrates a concept I practiced:
 
-Every file is committed separately to track progress step by step.
+- `average.py` → functions and loops
+- `calculator.py` → arithmetic operations
+- `file_io.py` → file handling
+- `Inheritance.py` → OOP inheritance
+- `library_management_system.py` → mini project
 
+## How to Run
+Clone the repo:
+```bash
+git clone https://github.com/navneetbhaltilak/python_course.git
+cd python_course
